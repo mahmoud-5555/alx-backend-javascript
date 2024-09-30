@@ -1,0 +1,3 @@
+# ALX Backend JavaScript - Dictionary Practice
+
+Welcome to the ALX Backend JavaScript Dictionary Practice repository. This project is designed to help you enhance your JavaScript skills through practical exercises and examples. By working through these exercises, you will gain a deeper understanding of key JavaScript concepts and improve your problem-solving abilities. Let's dive in and start coding!\
